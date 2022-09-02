@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+.body1 {
+    margin: 1rem;
+    background-color: lightskyblue;
+    padding-bottom: 50px;
+    padding-top: 0px;
+}

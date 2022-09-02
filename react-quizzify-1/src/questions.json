@@ -1,0 +1,130 @@
+{
+    "laws": [
+        {
+            "question": "Under which article was the Finance Commission of India established?",
+            "answers": [
+                "Article 260",
+                "Article 280",
+                "Article 301",
+                "Article 317"
+            ],
+            "correctAnswer": "Article 280"
+        },
+        {
+            "question": "Which Article gives power to the Governor to take additional charge of two or more States?",
+            "answers": [
+                "Article 153",
+                "Article 168",
+                "Article 178",
+                "Article 182"
+            ],
+            "correctAnswer": "The Amazon"
+        },
+        {
+            "question": "jamnagar-based cluster of ayurved institutes,that was seen in news,are located in which state?",
+            "answers": ["Gujarat", "Assam", "Madhya pradesh", "Maharastra"],
+            "correctAnswer": "Gujarat"
+        },
+        {
+            "question": "A citizen can directly move the supreme court for any violation of fundamental rights under?",
+            "answers": ["Article 33", "Article 34", "Article 31", "Article 32"],
+            "correctAnswer": "Article 32"
+        },
+        {
+            "question": "Which Article is related with Abolition of Untouchability?",
+            "answers": ["Article 20", "Article 19", "Article 18", "Article 17"],
+            "correctAnswer": "Article 17"
+        }
+    ],
+
+    "history": [
+        {
+            "question": " Citizenship (Amendment) Bill, 2019 will amend",
+            "answers": [
+                "Citizenship Act, 1950",
+                "Citizenship Act, 1955",
+                "Citizenship Act, 1960",
+                "Citizenship Act, 1965"
+            ],
+            "correctAnswer": "Citizenship Act, 1955"
+        },
+        {
+            "question": "What was the capital city of the Byzantine Empire?",
+            "answers": ["Rome", "Constantinople", "Pompeii", "Antioch"],
+            "correctAnswer": "Constantinople"
+        },
+        {
+            "question": "In Greek mythology, where did the gods live?",
+            "answers": [
+                "Mount Olympus",
+                "The Elysian Fields",
+                "Mount Othrys",
+                "Mount Ida"
+            ],
+            "correctAnswer": "Mount Olympus"
+        },
+        {
+            "question": "Who was Otto von Bismarck?",
+            "answers": [
+                "A German general during World War 1",
+                "An Austrian prince",
+                "The first German chancellor",
+                "A Swiss scientist"
+            ],
+            "correctAnswer": "The first German chancellor"
+        },
+        {
+            "question": "What was the largest empire in history?",
+            "answers": [
+                "The Mongol Empire",
+                "The Roman Empire",
+                "The Russian Empire",
+                "The British Empire"
+            ],
+            "correctAnswer": "The British Empire"
+        }
+    ],
+
+    "amendments": [
+        {
+            "question": "GST was introduced as the ___ amendment act?",
+            "answers": ["100", "101", "102", "103"],
+            "correctAnswer": "101"
+        },
+        {
+            "question": "Which constitutional amendment provided for the setting up of Administrative Tribunals in India?",
+            "answers": [
+                "24th Amendment",
+                "42nd Amendment",
+                "44th Amendment",
+                "59th Amendment"
+            ],
+            "correctAnswer": "42nd Amendment"
+        },
+        {
+            "question": "The 52nd amendment to the constitution of india is most closely related to ___?",
+            "answers": [
+                "Extension of Reservation in government jobs",
+                "Provision for speial status to Tripure",
+                "Provision for food",
+                "Provision against political defections"
+            ],
+            "correctAnswer": "Provision against political defections"
+        },
+        {
+            "question": "72th constitutional amendment act gave constitutional recognition to municiplities by adding ____",
+            "answers": ["Part IX-A", "Part X", "Part XI", "Part XIV"],
+            "correctAnswer": "Part IX-A"
+        },
+        {
+            "question": "Which of the following Amendments reduced the voting age from 21 to 18 years?",
+            "answers": [
+                "55th Amendment",
+                "58th Amendment",
+                "61th Amendment",
+                "66th Amendment"
+            ],
+            "correctAnswer": "61st Amendments"
+        }
+    ]
+}
